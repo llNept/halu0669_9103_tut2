@@ -29,6 +29,11 @@ My fist repo for IDEA9103
 
 ![An image of the Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
+
+function draw(){
+    createCanvas(400,400);
+}
+
 ```
 function helloWorld() {
 console.log("Hello, world!");
